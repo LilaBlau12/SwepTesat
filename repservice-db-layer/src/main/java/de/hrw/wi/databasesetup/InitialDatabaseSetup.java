@@ -16,6 +16,7 @@ public class InitialDatabaseSetup {
   
   //ljdsflnsadjfndsjfn
   //ökasdfkjsdfjk
+  
   /**
    * Main-Methode setzt Datenbank auf.
    * 
