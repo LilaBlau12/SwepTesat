@@ -22,6 +22,7 @@ public class InitialDatabaseSetup {
    * @param args
    *          Kommandozeilenparameter
    */
+  
   public static void main(String[] args) throws SQLException {
     // Optional Parameter ";shutdown=true;hsqldb.write_delay=false;"
     Connection conn = DriverManager.getConnection(
